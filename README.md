@@ -1,4 +1,4 @@
-### Nodevember 2019
+# Nodevember 2019
 
 This repository contains my solutions to the prompts for Nodevember, a yearly event focused on exploring procedural node-based workflows. I'll also add related explorations in the extras folder. Continue reading for some tutorial-esque notes on my work. @ or dm me on twitter if you have questions!
 
