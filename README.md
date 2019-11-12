@@ -1,6 +1,8 @@
 # Nodevember 2019
 
-This repository contains my solutions to the prompts for Nodevember, a yearly event focused on exploring procedural node-based workflows. I'll also add related explorations in the extras folder. Continue reading for some tutorial-esque notes on my work. @ or dm me on twitter if you have questions!
+This repository contains my solutions to the prompts for Nodevember, a yearly event focused on exploring procedural node-based workflows. I'll also add related explorations in the extras folder. @ or dm me on twitter if you have questions!
+
+**Scroll down to day 03 to see a breakdown of my lightning shader.**
 
 Thus far, all of my work on this project is made with [Blender](https://www.blender.org/). 
 
