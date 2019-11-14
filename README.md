@@ -6,13 +6,23 @@ This repository contains my solutions to the prompts for Nodevember, a yearly ev
 
 Thus far, all of my work on this project is made with [Blender](https://www.blender.org/). 
 
-## Day 01: Lava
+## Day 14: Ornamental
 
-![](/img/01-lava-1.png)
+![](/img/14-ornate-2.jpg)
 
-## Day 02: Clouds
+Completely procedural.
 
-![02-clouds-1](/img/02-clouds-1.png)
+## Day 10: Flower
+
+![10-flower-1](/img/10-flower-1.jpg)
+
+## Day 05: Snow
+
+![05-snow-2](/img/05-snow-2.png)
+
+## Day 04: Tornado
+
+![04-tornado-1](/img/04-tornado-1.png)
 
 ## Day 03: Lightning
 
@@ -75,14 +85,12 @@ Stuff to try:
 * Add multiple arcs of lightning with slightly different parameters.
 * Try animating different parameters.
 
-## Day 04: Tornado
+## Day 02: Clouds
 
-![04-tornado-1](/img/04-tornado-1.png)
+![02-clouds-1](/img/02-clouds-1.png)
 
-## Day 05: Snow
 
-![05-snow-2](/img/05-snow-2.png)
+## Day 01: Lava
 
-## Day 10: Flower
+![](/img/01-lava-1.png)
 
-![10-flower-1](/img/10-flower-1.jpg)
