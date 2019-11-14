@@ -1,6 +1,6 @@
 # Nodevember 2019
 
-This repository contains my solutions to the prompts for Nodevember, a yearly event focused on exploring procedural node-based workflows. I'll also add related explorations in the extras folder. @ or dm me on twitter if you have questions!
+This repository contains my solutions to the prompts for Nodevember, a yearly event focused on exploring procedural node-based workflows. That means that everything is 100% procedural with no help from image textures. I'll add related explorations in the extras folder. @ or dm me on twitter if you have questions!
 
 **Scroll down to day 03 to see a breakdown of my lightning shader.**
 
@@ -9,8 +9,6 @@ Thus far, all of my work on this project is made with [Blender](https://www.blen
 ## Day 14: Ornamental
 
 ![](/img/14-ornate-2.jpg)
-
-Completely procedural.
 
 ## Day 10: Flower
 
