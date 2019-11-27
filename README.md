@@ -6,6 +6,10 @@ This repository contains my solutions to the prompts for Nodevember, a yearly ev
 
 Thus far, all of my work on this project is made with [Blender](https://www.blender.org/). 
 
+## Day 23: Planet
+
+![](/img/23-planet-1.jpg)
+
 ## Day 14: Ornamental
 
 ![](/img/14-ornate-2.jpg)
